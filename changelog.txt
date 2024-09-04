@@ -1,0 +1,4 @@
+Mengetahui tipe data di flowgorithm
+Mengetahui fugsi declare, assign, input dan output
+Mempelajari cara menyimpan file di flowgorithm
+Kami sudah menyelesaikan T01
